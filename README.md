@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-avatar-cioran-circle.png" alt="Cioran-inspired philosopher avatar" width="160" />
-</p>
-
-<p align="center">
   <a href="https://github.com/rillsvai?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/repos-open-2f81f7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
