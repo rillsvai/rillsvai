@@ -29,12 +29,12 @@
   <g transform="translate(72 62)">
     <text x="0" y="28" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">GITHUB PROFILE</text>
     <text x="0" y="94" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">rillsvai</text>
-    <text x="0" y="136" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Go / Rust / TypeScript</text>
+    <text x="0" y="136" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Go / Node.js / Cloud</text>
     <rect x="0" y="164" width="420" height="5" rx="2.5" fill="#30363D"/>
     <rect x="0" y="164" width="260" height="5" rx="2.5" fill="url(#accent)">
       <animate attributeName="width" values="180;420;260;340;180" dur="8s" repeatCount="indefinite"/>
     </rect>
-    <text x="0" y="209" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">backend systems - automation - practical software</text>
+    <text x="0" y="209" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">APIs - queues - observability - reliable delivery</text>
   </g>
 
   <g transform="translate(676 54)">
@@ -46,8 +46,8 @@
 
     <text x="24" y="72" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">$ git status</text>
     <text x="24" y="102" fill="#3FB950" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">on branch main</text>
-    <text x="24" y="132" fill="#58A6FF" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">shipping useful systems</text>
-    <text x="24" y="162" fill="#F78166" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">clean commits, real projects</text>
+    <text x="24" y="132" fill="#58A6FF" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">Go, Node.js, PostgreSQL</text>
+    <text x="24" y="162" fill="#F78166" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">OAuth, webhooks, queues</text>
     <rect x="24" y="181" width="11" height="18" fill="#F0F6FC">
       <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>

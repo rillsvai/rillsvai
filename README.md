@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I build backend systems, Rust tools, TypeScript interfaces, and automation that stays easy to operate.
+  Backend engineer building Go and Node.js systems across APIs, cloud infrastructure, data pipelines, integrations, and observability.
 </p>
 
 ---
@@ -22,23 +22,31 @@
 
 <p align="center">
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" />
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
 
-### Featured Work
-
-| Project | Stack | Focus |
-| --- | --- | --- |
-| [bbsignals-backend](https://github.com/rillsvai/bbsignals-backend) | Go | Backend service work |
-| [jimaku](https://github.com/rillsvai/jimaku) | Rust | Subtitle hosting |
-| [cioran-inconvenient-uk](https://github.com/rillsvai/cioran-inconvenient-uk) | TeX | Typesetting and publishing |
-| [node-raw-websocket](https://github.com/rillsvai/node-raw-websocket) | JavaScript | Low-level websocket experiments |
+| Area                              | Tools and concepts                                                                                                                                             |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**                     | Go, TypeScript/JavaScript, Node.js, SQL, Python                                                                                                                |
+| **Backend & APIs**                | REST, OpenAPI, third-party APIs, webhooks, MCP, OAuth2/OIDC, JWT, API keys, GraphQL                                                                            |
+| **Architecture**                  | Microservices, modular monoliths, event-driven systems, async processing, background jobs, performance optimization, SOLID, KISS, DRY, Clean Architecture, DDD |
+| **Data & Storage**                | PostgreSQL, Redis, MongoDB, SQL Server                                                                                                                         |
+| **Messaging & Queues**            | RabbitMQ, River                                                                                                                                                |
+| **Cloud, DevOps & Observability** | AWS, Azure, GCP, Docker, CI/CD, GitHub Actions, Jenkins, OpenTelemetry, Prometheus, Grafana, Sentry                                                            |
 
 ### Activity
 
