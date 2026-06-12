@@ -13,20 +13,19 @@
 </p>
 
 <p align="center">
-  Backend engineer building reliable systems across APIs, cloud infrastructure, data pipelines, integrations, and observability.
+  I am a software engineer with a strong focus on backend development. I enjoy building reliable, well-structured systems, maintaining high standards for code quality, and making the right architectural decisions depending on the context. I am also extremely passionate about linguistics and language learning, so my brain is always doing gymnastics. 
 </p>
 
 ---
 
-### Contribution Graph
+### Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rillsvai/rillsvai/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rillsvai/rillsvai/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/rillsvai/rillsvai/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rillsvai&theme=github-compact&hide_border=true" width="100%" />
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rillsvai&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rillsvai&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/rillsvai">github.com/rillsvai</a>
