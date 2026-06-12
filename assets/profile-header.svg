@@ -31,7 +31,7 @@
     <text x="278" y="88" fill="#F0F6FC" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="24">sudo dnf install hire-me</text>
     <text x="38" y="130" fill="#3FB950" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="22">Resolving dependencies... done</text>
     <text x="38" y="168" fill="#58A6FF" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="22">Status: available</text>
-    <rect x="246" y="149" width="13" height="24" fill="#F0F6FC">
+    <rect x="272" y="149" width="13" height="24" fill="#F0F6FC">
       <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
   </g>
