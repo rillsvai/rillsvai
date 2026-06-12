@@ -4,15 +4,10 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0D1117"/>
-      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="0.52" stop-color="#101820"/>
       <stop offset="1" stop-color="#161B22"/>
     </linearGradient>
-    <linearGradient id="accent" x1="70" y1="0" x2="540" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#58A6FF"/>
-      <stop offset="0.55" stop-color="#3FB950"/>
-      <stop offset="1" stop-color="#F78166"/>
-    </linearGradient>
-    <linearGradient id="panel" x1="690" y1="54" x2="1118" y2="268" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panel" x1="196" y1="56" x2="1004" y2="264" gradientUnits="userSpaceOnUse">
       <stop stop-color="#1F2937"/>
       <stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
@@ -23,32 +18,20 @@
 
   <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
   <rect width="1200" height="320" rx="18" fill="url(#grid)" opacity="0.36"/>
-  <path d="M0 246 C142 204 231 265 361 222 C486 181 560 112 693 139 C827 167 866 244 1005 219 C1083 205 1140 168 1200 175" stroke="url(#accent)" stroke-width="3" opacity="0.9"/>
-  <path d="M0 252 C142 210 231 271 361 228 C486 187 560 118 693 145 C827 173 866 250 1005 225 C1083 211 1140 174 1200 181" stroke="#58A6FF" stroke-width="1" opacity="0.35"/>
 
-  <g transform="translate(72 62)">
-    <text x="0" y="28" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">GITHUB PROFILE</text>
-    <text x="0" y="94" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">rillsvai</text>
-    <text x="0" y="136" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Go / Node.js / Cloud</text>
-    <rect x="0" y="164" width="420" height="5" rx="2.5" fill="#30363D"/>
-    <rect x="0" y="164" width="260" height="5" rx="2.5" fill="url(#accent)">
-      <animate attributeName="width" values="180;420;260;340;180" dur="8s" repeatCount="indefinite"/>
-    </rect>
-    <text x="0" y="209" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">APIs - queues - observability - reliable delivery</text>
-  </g>
+  <g transform="translate(196 56)">
+    <rect x="0" y="0" width="808" height="208" rx="14" fill="url(#panel)" stroke="#30363D"/>
+    <rect x="0" y="0" width="808" height="42" rx="14" fill="#161B22"/>
+    <rect x="0" y="26" width="808" height="16" fill="#161B22"/>
+    <circle cx="28" cy="21" r="6" fill="#F85149"/>
+    <circle cx="52" cy="21" r="6" fill="#D29922"/>
+    <circle cx="76" cy="21" r="6" fill="#3FB950"/>
 
-  <g transform="translate(676 54)">
-    <rect x="0" y="0" width="452" height="212" rx="14" fill="url(#panel)" stroke="#30363D"/>
-    <rect x="0" y="0" width="452" height="38" rx="14" fill="#161B22"/>
-    <circle cx="24" cy="19" r="5" fill="#F85149"/>
-    <circle cx="44" cy="19" r="5" fill="#D29922"/>
-    <circle cx="64" cy="19" r="5" fill="#3FB950"/>
-
-    <text x="24" y="72" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">$ git status</text>
-    <text x="24" y="102" fill="#3FB950" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">on branch main</text>
-    <text x="24" y="132" fill="#58A6FF" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">Go, Node.js, PostgreSQL</text>
-    <text x="24" y="162" fill="#F78166" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15">OAuth, webhooks, queues</text>
-    <rect x="24" y="181" width="11" height="18" fill="#F0F6FC">
+    <text x="38" y="88" fill="#8B949E" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="24">kyryl@github:~$</text>
+    <text x="278" y="88" fill="#F0F6FC" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="24">sudo dnf install hire-me</text>
+    <text x="38" y="130" fill="#3FB950" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="22">Resolving dependencies... done</text>
+    <text x="38" y="168" fill="#58A6FF" font-family="SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="22">Status: available</text>
+    <rect x="246" y="149" width="13" height="24" fill="#F0F6FC">
       <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
   </g>
